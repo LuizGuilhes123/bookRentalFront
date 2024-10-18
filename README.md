@@ -9,6 +9,13 @@ Para configurar o projeto localmente, siga as instruções abaixo.
 ### Instalação das dependências
 Execute o comando a seguir para instalar todas as dependências do projeto:
 
+## Baixe o back-end
+
+```
+ git clone https://github.com/LuizGuilhes123/bookStoreRental.git
+   cd bookStoreRental
+```
+
 ## Instalação de depedencias
 ```
 npm install
